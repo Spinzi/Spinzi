@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Spinzi
-- 👀 I’m interested in C++ / Unity
-- 😄 Pronouns: he/him
+- Hi, I’m @Spinzi
+- Indie Game Dev
+- Godot / JS / C++
+- Pronouns: he/him
 
 <!---
 Spinzi/Spinzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
